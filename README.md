@@ -1,2 +1,5 @@
 # Spot-Welder-Driver-Z110
 Triac schield for Arduino Nano - best for microwave trafo spot welder!
+PCB https://www.pcbway.com/project/shareproject/Arduino_Nano_230V_Triac_Schield_Z110.html
+YouTube https://www.youtube.com/watch?v=9_rzBC5pcJ4
+Facebook https://www.facebook.com/EMSITech.Legnica
